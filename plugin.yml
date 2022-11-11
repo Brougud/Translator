@@ -1,0 +1,6 @@
+name: Translator
+version: 0.0.1-ALPHA
+author: "TLS Gorilla"
+api: [4.0.0]
+main: TLS\Translator
+src-namespace-prefix: TLS
